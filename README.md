@@ -1,1 +1,1 @@
-# devops-springboot
+# Devops Jenkins CI CD automation Springboot project
